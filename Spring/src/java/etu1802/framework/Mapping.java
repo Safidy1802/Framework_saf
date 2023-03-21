@@ -32,4 +32,6 @@ public class Mapping {
     public void setMethod(String method) {
         this.method = method;
     }
+
 }
+
